@@ -47,3 +47,24 @@ Popular tools include:
 - **Balsamiq**  
 - **Sketch**  
 - **Pen & Paper** (Quick sketches!)  
+
+## :art: Types of Wireframes
+
+### 1. Low-Fidelity Wireframes
+- **What**: Basic sketches (often hand-drawn or digital placeholders) showing layout and structure.
+- **Features**:  
+  - No colors/images  
+  - Simple shapes (e.g., squares for buttons, lines for text)  
+  - Minimal detail  
+- **When to Use**: Early design phases, brainstorming, or quick stakeholder feedback.
+
+### 2. High-Fidelity Wireframes
+- **What**: Detailed, pixel-specific mockups closer to the final design.
+- **Features**:  
+  - Actual content (text, icons)  
+  - Grids/spacing accuracy  
+  - Basic interactivity (e.g., clickable buttons)  
+- **When to Use**: Late-stage prototyping, developer handoffs, or user testing.
+
+### Wireframes in This Repo
+This repository focuses on **low-fidelity wireframes** to emphasize structure and functionality over visual design.
