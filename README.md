@@ -68,3 +68,29 @@ Popular tools include:
 
 ### Wireframes in This Repo
 This repository focuses on **low-fidelity wireframes** to emphasize structure and functionality over visual design.
+
+## :wrench: Wireframing Tools
+
+### Popular Wireframing Tools
+| Tool         | Best For                  | Key Features                          |
+|--------------|---------------------------|---------------------------------------|
+| **Figma**    | Collaborative design      | Real-time editing, prototyping, plugins |
+| **Adobe XD** | High-fidelity wireframes  | Auto-animate, voice prototyping       |
+| **Balsamiq** | Quick low-fidelity drafts | Sketch-style UI, drag-and-drop        |
+| **Sketch**   | macOS users               | Symbols, vector editing               |
+| **Pen/Paper**| Rapid ideation            | Fastest, no learning curve           |
+
+### :star: Why Figma is Recommended
+**Figma** is ideal for wireframing because:
+- **Free tier available** (great for beginners/teams)
+- **Cloud-based collaboration** (real-time feedback)
+- **Component libraries** (reusable UI elements)
+- **Interactive prototyping** (basic click-through flows)
+- **Cross-platform** (works on Windows, macOS, Linux)
+
+Example workflow:  
+1. Use frames (`F`) to set screen dimensions  
+2. Drag shapes (`R` for rectangles, `O` for ovals) for placeholders  
+3. Add text (`T`) with lorem ipsum  
+4. Share via link for instant feedback  
+
