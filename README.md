@@ -121,6 +121,42 @@ Wireframing is the process of creating low-fidelity layouts to plan structure an
 - Saves 40%+ dev time by catching issues early  
 - Aligns teams with visual blueprints  
 - Supports agile sprints with clear specs  
+# Wireframing Guide
 
-*Pro Tip: Start with paper sketches before digital tools!*
+## :pencil2: Introduction
+Wireframing creates low-fidelity layouts to plan structure and functionality before visual design.
+
+## :triangular_ruler: Key Elements
+1. **Layout Structure**: Spatial organization (headers, columns)
+2. **Navigation**: User flow (menus, buttons)
+3. **Content Placement**: Hierarchy of text/media
+4. **Functionality**: Interactive elements (forms, CTAs)
+
+## :art: Types of Wireframes
+| Type            | Fidelity | When to Use          |
+|-----------------|----------|----------------------|
+| Low-Fidelity    | Basic    | Early brainstorming  |
+| High-Fidelity   | Detailed | Developer handoffs   |
+
+## :wrench: Recommended Tool: Figma
+- Real-time collaboration
+- Free tier available
+- Interactive prototyping
+- Cross-platform
+
+## :desktop_computer: Development Benefits
+- Saves 40%+ dev time by catching issues early
+- Aligns teams with visual blueprints
+- Supports agile sprints with clear specs
+
+## :bulb: Wireframing in Practice
+**Case Study**: Fintech app dashboard  
+- **Issues Found**: Hidden filters, cluttered data cards  
+- **Solutions**: Relocated filters, simplified card design  
+- **Result**: 89% usability success (+27%), saved 3 weeks  
+
+**Conclusion**:  
+Wireframing prevents costly redesigns and ensures user-friendly products.
+
+
 
